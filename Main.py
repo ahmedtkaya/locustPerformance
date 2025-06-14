@@ -39,8 +39,8 @@ class WebsiteUser(HttpUser):
         body_payload = {
             "id": 145784334,
             "username": "Yeni",
-            "firstName": "Ğaaa",
-            "lastName": "Zart",
+            "firstName": "yeniisim",
+            "lastName": "yenisoyisim",
             "email": "aydemir232@gmail.com",
             "password": "123456",
             "phone":"14255487487",
@@ -65,8 +65,8 @@ class WebsiteUser(HttpUser):
         body_payload =[ {
             "id": 145784334,
             "username": "Yeni",
-            "firstName": "Ğaaa",
-            "lastName": "Zart",
+            "firstName": "yeniisim",
+            "lastName": "yenisoyisim",
             "email": "aydemir232@gmail.com",
             "password": "123456",
             "phone": "14255487487",
@@ -76,8 +76,8 @@ class WebsiteUser(HttpUser):
         {
             "id": 145784334,
             "username": "Yeni2",
-            "firstName": "Ğaaa2",
-            "lastName": "Zart2",
+            "firstName": "yeniisim2",
+            "lastName": "yenisoyisim2",
             "email": "aydemir23235@gmail.com",
             "password": "1234567",
             "phone": "14255487481",
